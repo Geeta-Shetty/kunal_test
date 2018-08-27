@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation Test">
+	<test name= "Smoke Test">
+		<classes>
+			<class name="Mod.TestMaven"></class>
+		</classes>
+
+	</test>
+</suite>
